@@ -1,0 +1,9 @@
+name: Demo
+main: org.greensky.demo.DemoMain
+version: 0.0.1
+commands:
+   demo:
+      description: This is a demo command.
+      usage: /<command> [player]
+      permission: <plugin name>.demo
+      permission-message: You don't have <permission>
