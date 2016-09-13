@@ -1,5 +1,5 @@
-name: Demo
-main: org.greensky.demo.DemoMain
+name: GreenProtect
+main: org.greensky.greenprotect.GreenProtect
 version: 0.0.1
 commands:
    demo:
